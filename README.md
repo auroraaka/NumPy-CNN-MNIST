@@ -1,6 +1,6 @@
-# Pure-NumPy-CNN-for-MNIST-Dataset
+# NumPy CNN MNIST
 
-A pure NumPy implementation of a convolutional neural network for classification of MNIST handwritten numbers dataset. This project was completed as a learning exercise to gain an intuition for mathematical fundamentals of machine learning. All hyperparameters and optimizers are provided in the source code and Google Colaboratory. The model trained on five epochs with the below architecture achieved an accuracy of 97.01% on the test dataset. 
+A pure NumPy implementation of a convolutional neural network for classification of MNIST handwritten numbers dataset. This project was completed as a learning exercise to gain an intuition for mathematical fundamentals of machine learning. All the hyperparameters and optimization algorithms used in this project can be found in the provided source code and the associated Google Colaboratory notebook. The described architecture of the model, which was trained over five epochs, resulted in a classification accuracy of 97.01% on the test dataset.
 
 ```
 Model: CNN_MNIST
